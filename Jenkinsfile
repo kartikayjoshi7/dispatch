@@ -5,4 +5,6 @@ env.COMPONENT = "dispatch"
 env.BUILD_LABEL = "WORKSTATION"
 
 //library
-golang()
+//golang()
+
+immutable_golang()
